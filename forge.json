@@ -1,0 +1,15 @@
+{
+    "version": "0.3.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Robin831/Forge/releases/download/v0.3.1/forge_0.3.1_windows_amd64.zip",
+            "bin": [
+                "forge.exe"
+            ],
+            "hash": "66c34bc05a2c10fecf1f3e0f640db95f891d4c2a27e7ee9c7a93f2faa260871b"
+        }
+    },
+    "homepage": "https://github.com/Robin831/Forge",
+    "license": "MIT",
+    "description": "Autonomous AI orchestrator that coordinates Claude Code agents across git repositories"
+}
