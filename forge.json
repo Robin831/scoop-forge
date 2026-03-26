@@ -1,12 +1,12 @@
 {
-    "version": "0.11.0",
+    "version": "0.11.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Robin831/Forge/releases/download/v0.11.0/forge_0.11.0_windows_amd64.zip",
+            "url": "https://github.com/Robin831/Forge/releases/download/v0.11.1/forge_0.11.1_windows_amd64.zip",
             "bin": [
                 "forge.exe"
             ],
-            "hash": "1814a5827a2d9a3046f2828b7dd050d04a132e6563f0a65b8b4a524436c87526"
+            "hash": "7d1c0b588d04414029b97f4b83030ded0f3ec8dabb6702d066b9e8e98b10c93c"
         }
     },
     "homepage": "https://github.com/Robin831/Forge",
